@@ -1,5 +1,5 @@
 
-I'm Yogeendran - data professional with over a decade of experience in marketing analytics for Banks and Fintechs. 
+:wave: I'm Yogeendran - data professional with over a decade of experience in marketing analytics for Banks and Fintechs. 
 
 I work on translating data into business decisions to drive growth 
 
