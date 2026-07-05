@@ -1,7 +1,7 @@
 
 :wave: I'm Yogeendran - data professional with over a decade of experience in marketing analytics for Banks and Fintechs. 
 
-I work on translating data into business decisions to drive growth 
+:chart_with_upwards_trend: I work on translating data into business decisions to drive growth 
 
 <!--
 **yogee94g/yogee94g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
